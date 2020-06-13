@@ -9,8 +9,10 @@ return 0;
 if ( s1.euals(str)){
 str.substring (1,3);
 }
-for ( iint i = 0; i < str.length (); i ++) {
+for ( int i = 0; i < str.length (); i ++) {
 char ch = str.charAt(i);
+  result = character.toUpperCase(ch); 
+
 
 }
 return 0; 
